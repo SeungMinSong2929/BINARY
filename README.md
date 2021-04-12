@@ -49,7 +49,8 @@ TRIVIAL 알고리즘을 기준으로 다른 알고리즘 성능과 시간 복잡
 	* release 모드로 실행하여, 실행시간을 측정한다. 
 
 <br>
-보다 상세한 설명은 [프로젝트 소개](https://github.com/SeungMinSong2929/BINARY/tree/master/ProjectReport) 참고
+보다 상세한 설명은 [프로젝트소개] [1] 참고
+[1]: https://github.com/SeungMinSong2929/BINARY/tree/master/ProjectReport
 
 ## 결과 분석
 * 성능 비교
